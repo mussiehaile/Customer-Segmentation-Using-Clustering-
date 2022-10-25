@@ -6,6 +6,8 @@ in this project i created customer segmentation model for clustering our custome
 
 
 dataset available in kaggle with the name "Customer segmentation" also shared it with in this repository.
+
+
        ALGORITHM
      
      
