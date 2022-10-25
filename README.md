@@ -28,7 +28,7 @@ Variance
 Principal Component Analysis(PCA)
 
 
-notbook is organized in such a way that first make clustering only using 2 features from the dataset then visualizing the output .
+notebook is organized in such a way that first make clustering only using 2 features from the dataset then visualizing the output .
 after the above model increase our features to 5 to get better results and finally use PCA for reducing our futures to 2 for visualization.
 
 
