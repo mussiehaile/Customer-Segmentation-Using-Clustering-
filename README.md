@@ -14,7 +14,9 @@ dataset available in kaggle with the name "Customer segmentation" also shared it
 used KMeans clustering which is a a decent algorithm for such kind of problem.
 
 
-Important terms to remember
+
+      Important terms to remember
+
 
 
 Clustering
