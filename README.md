@@ -1,4 +1,4 @@
-# Customer-Segmentation-Using-Clustering-
+# Customer-Segmentation-Using-Clustering
 in this project i created customer segmentation model for clustering our customers in to groups so that we can target them individually.
 
 
@@ -12,7 +12,11 @@ dataset available in kaggle with the name "Customer segmentation" also shared it
      
      
 used KMeans clustering which is a a decent algorithm for such kind of problem.
+
+
 Important terms to remember
+
+
 Clustering
 KMeans
 make-pipline
